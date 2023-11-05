@@ -1,0 +1,4 @@
+20231006	12:44:20	3b8fe30b-2ecc-465e-ab48-c8a3df482e72	Error: Not allowed by CORs
+20231006	15:51:57	649f0e38-87c9-4515-a2cc-37fa234c905c	ReferenceError: next is not defined
+20231006	18:32:32	11a7b359-fc4c-4c57-ade4-16e5627cd9a7	TypeError: Cannot read properties of undefined (reading 'firstname')
+20231006	18:32:44	ca7b129c-e0ef-4952-b9ec-c18b24634e00	TypeError: Cannot read properties of undefined (reading 'firstname')
